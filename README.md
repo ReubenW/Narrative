@@ -1,5 +1,5 @@
 # Narrative
-Repo for the Narrative Quest and Dialogue editor, currently just used for tracking issues. 
+Repo for the Narrative Quest and Dialogue editor, currently just used for tracking issues. Please feel free to create an issue here if you find one. 
 
 If you want to get Narrative you can find it here on the Unreal Marketplace: https://www.unrealengine.com/marketplace/en-US/product/narrative-quest-and-dialogue-editor
 
